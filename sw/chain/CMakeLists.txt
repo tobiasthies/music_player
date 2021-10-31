@@ -1,13 +1,5 @@
-#
-#  Copyright (C) Creonic GmbH
-#
-#  This file is part of the Creonic simulation environment (CSE)
-#  for communication systems.
-#
-# Author     : Timo
-# Date       : 2016/12/19
-# Description: DVB-S2X Demodulator
-#
+# Tobias Thies
+# Cmake Library
 
 cmake_minimum_required(VERSION 3.10)
 
